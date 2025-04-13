@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavankumarcap
 - 👀 I’m interested in data 
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning software related things
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 
 
